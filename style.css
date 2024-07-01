@@ -72,9 +72,14 @@ body {
 }
 
 button {
+    cursor: pointer;
     font-family: 'Cabin';
     border: none;
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    
+}
+button:hover {
+    box-shadow: 0 0 10px lightblue;
 }
