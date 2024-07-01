@@ -23,11 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/d04239b0277c461fa8219572d5c94e42?sid=72560957-b763-438c-a3ef-93464ad2734a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with Loom
+Link to walkthrough:
 
-<!-- Replace this with whatever GIF tool you used! -->
-
-GIF created with ...
+https://www.loom.com/share/d04239b0277c461fa8219572d5c94e42?sid=72560957-b763-438c-a3ef-93464ad2734a
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
