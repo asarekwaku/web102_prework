@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 GIF created with Loom
 Link to walkthrough:
 
-https://www.loom.com/share/d04239b0277c461fa8219572d5c94e42?sid=72560957-b763-438c-a3ef-93464ad2734a
+https://www.loom.com/share/b1b5a245e75c4b7d916f436e6d1f29db?sid=59e919c4-fa4c-42b8-b34e-6de2a8c32b90
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
